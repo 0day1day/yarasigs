@@ -1,6 +1,6 @@
 rule CVE_2012_0158_1 {
   meta:
-    author = "robin.harper@cobham.com"
+    author = "cabrel@zerklabs.com"
     description = "ListView OCX Exploit"
     url = "http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2012-0158"
 
@@ -33,7 +33,7 @@ rule CVE_2012_0158_1 {
 
 rule CVE_2012_0158_2 {
   meta:
-    author = "robin.harper@cobham.com"
+    author = "cabrel@zerklabs.com"
     description = "RTF Stack Buffer Overflow Vulnerability"
     url = "http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2012-0158"
 
@@ -53,7 +53,7 @@ rule CVE_2012_0158_2 {
 
 rule CVE_2012_0158_3 {
   meta:
-    author = "robin.harper@cobham.com"
+    author = "cabrel@zerklabs.com"
     description = "RTF Stack Buffer Overflow Vulnerability"
     url = "http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2012-0158"
 
