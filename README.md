@@ -16,3 +16,8 @@ Custom rules for yara-integrated scans
 ### signatures/xplug.yar
 * Possible XPlug variants (newer releases)
 * Dynamic DLL abuse signatures
+
+### signatures/hangover.yar
+* From AlienVault Labs
+* http://labs.alienvault.com/labs/index.php/2013/yara-rules-and-network-detection-for-operation-hangover/
+* https://github.com/jaimeblasco/AlienvaultLabs/tree/master/malware_analysis/Hangover
